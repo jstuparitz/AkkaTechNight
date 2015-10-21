@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AkkaTechNight.Actors
+﻿namespace AkkaTechNight.Actors
 {
-    class Vehicle
+    internal class Vehicle
     {
     }
 }
