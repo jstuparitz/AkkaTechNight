@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AkkaTechNight.Messages
+namespace AkkaTechNight.Actors
 {
-    public class Class1
+    class Vehicle
     {
     }
 }

@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AkkaTechNight")]
+[assembly: AssemblyTitle("AkkaTechNight.Actors")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Wheels Inc.")]
-[assembly: AssemblyProduct("AkkaTechNight")]
-[assembly: AssemblyCopyright("Copyright © Wheels Inc. 2015")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("AkkaTechNight.Actors")]
+[assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("eb6d8836-dc43-465d-8d65-e23d31d0123a")]
+[assembly: Guid("30459ef0-efd7-4733-925c-48022146f596")]
 
 // Version information for an assembly consists of the following four values:
 //

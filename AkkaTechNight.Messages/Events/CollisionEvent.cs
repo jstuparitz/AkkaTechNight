@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AkkaTechNight
+namespace AkkaTechNight.Messages
 {
-    public class Class1
+    class CollisionEvent
     {
     }
 }
