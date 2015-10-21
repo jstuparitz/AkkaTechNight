@@ -11,7 +11,7 @@ namespace AkkaTechNight.ActorSystem
         private static void Main(string[] args)
         {
             MyActorSystem = Akka.Actor.ActorSystem.Create("MyActorSystem");
-            saList<IActorRef> drivers = CreateDrivers();
+            List<IActorRef> drivers = CreateDrivers();
 
             MyActorSystem.AwaitTermination();
         }
